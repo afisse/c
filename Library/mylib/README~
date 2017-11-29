@@ -1,0 +1,4 @@
+1) New library
+   a) change VERSION number in Makefile
+   b) edit the library (add file, add function, modify, etc.)
+   c) run build-lib Makefile command
